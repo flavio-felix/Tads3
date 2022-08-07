@@ -1,0 +1,44 @@
+avaliações do Beto
+provas - Setembro e Novembro - vale 0.6
+trabalho - tudo no git - 0.4
+trabalho média
+
+PE - 15h30 as 16h30
+
+vs code
+netbeans
+eclipse
+Intellidea
+
+Github - flavio-felix
+desenhist.......
+
+----------------------------------
+linguagem prog 26/07
+
+codigo java - excutável - JVM
+byte code
+
+uma linguagem portátil - podendo ser executada em outras 
+
+geranciamento automático de memoria - Garbage collector
+
+instalar - Java JDK
+git 
+
+
+modificadores de acesso:
+public  -  aberto para todos
+private - visivel apenas na propria classe
+protected - herança
+package
+
+Programacao Orientad a Objeto - P.O.O.
+
+encapsulamento - nenhum atributo da classe deve ser encapsulado - não publico - ex. private int j;
+o privado é visivel apenas na propria classe
+
+
+
+
+

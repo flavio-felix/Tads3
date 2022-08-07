@@ -1,0 +1,6 @@
+1 - Criar um robo para movimentar em uma mesa
+   parametro - mover(direcao , qtas casas mover)
+
+- o construtor deve inicar o robo em posição específica;
+- Mover recebe a direção (esq, dir, alto, baixo)
+- a cada nova movimentação, imprimir a posição de origem 

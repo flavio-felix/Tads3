@@ -1,0 +1,71 @@
+avaliações do Beto
+provas - Setembro e Novembro - vale 0.6
+trabalho - tudo no git - 0.4
+trabalho média
+
+PE - 15h30 as 16h30
+
+vs code
+netbeans
+eclipse
+Intellidea
+
+Github - flavio-felix
+desenhist.......
+
+----------------------------------
+linguagem prog 26/07
+
+codigo java - excutável - JVM
+byte code
+
+uma linguagem portátil - podendo ser executada em outras 
+
+geranciamento automático de memoria - Garbage collector
+
+instalar - Java JDK
+git 
+
+
+modificadores de acesso:
+public  -  aberto para todos
+private - visivel apenas na propria classe
+protected - herança
+package
+
+Programacao Orientad a Objeto - P.O.O.
+
+encapsulamento - nenhum atributo da classe deve ser encapsulado - não publico - ex. private int j;
+o privado é visivel apenas na propria classe
+
+27/07/2022
+****o todas as classes origina de um Object
+reescreer um metodo dentro de outro metodo - polimorfismo
+
+Diagrama de classes;
+Instancias(objetos);
+Encapsulamentos;
+Acesso a atributos;
+Metodos;
+Construtores;
+Polimorfismo;
+-----Exercícios:
+criar u modelo de Conta corrente
+criar outro modelo de Conta Poupança
+
+com pelo menos 3 atributos cada
+e pelos menos 2 metodos, sem ser getters e setters (sacar e depositar);
+-------------------------
+Trabalho - objeto sobre a mesa
+
+-------------------
+03/08/22
+-fazer leitura usando teclado
+-vetores
+-Math randon
+-algorítimos de ordenação (buble sort)
+
+
+
+
+
