@@ -8,25 +8,23 @@ public class App_robo{
 
         int[][] casa = new int[5][5];
 
-        int d = 1;
-        int e = -1;
-        int b = 1;
-        int c = -1;
         System.out.println("Para mover o objeto escolha:\nD: Direita\nE: Esquerda\nC: Cima\nB: Baixo");
-        for(int i=0; i<casa.length; i++){
+        for(int i=0; i<casa.length;i++){
             String n = sc.nextLine();
-                if(n.equalsIgnoreCase("D"))
-                for(int j=0; j<casa.length; j++){
-                    if(n.equalsIgnoreCase("B"))
-                    for(int i=0; i<casa.length; i--){
-                        if(n.equalsIgnoreCase("E"))}
-                        for(int j=0; j<casa.length; j++){
-                            if(n.equalsIgnoreCase("C"))
-            }         
+                if(n.equalsIgnoreCase("D")){
+                    i++;} if(n.equalsIgnoreCase("E")){
+                        i--;
+                    }
+            for(int j=0; j<casa.length;j++){
+                    if(n.equalsIgnoreCase("B")){
+                        j++;} if(n.equalsIgnoreCase("C")){
+                            j--;
+                            System.out.println(casa[j]);
+                        }
+                    }
 
-        System.out.println("Posicao :"+"("+i+","+j+")");     
         
-
+/*
         for(i=0; i<casa.length; i++){
             System.out.print(" " + i);
             }
@@ -34,10 +32,10 @@ public class App_robo{
         for(j=0; j<casa.length; j++){
             System.out.println(j);
             }
-
+*/
         }
     }}
-    
+     
 
 
       
